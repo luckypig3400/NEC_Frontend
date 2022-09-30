@@ -13,7 +13,7 @@ const Header = () => {
     return (
         <div style={style}>
             <img
-                src="./GHL_logo.png"
+                src="./NEC_logo.png"
                 alt="logo"
                 style={{
                     height: `${window.innerHeight / 5}px`,

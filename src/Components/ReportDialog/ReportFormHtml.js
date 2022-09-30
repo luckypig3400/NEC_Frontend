@@ -173,7 +173,7 @@ const FormHeader = () => {
     return (
         <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column' }}>
             <div style={{ display: 'flex', alignItems: 'center' }}>
-                <img alt="logo" src="./print_logo.png" style={{ width: '2rem' }} />
+                <img alt="logo" src="./NEC_logo.png" style={{ width: '2rem' }} />
                 <b style={{ fontSize: '1.5rem' }}>財團法人肝病防治學術基金會</b>
             </div>
             <b style={{ fontSize: '1.5rem' }}>腹部超音波檢查報告</b>
